@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="8" fill="#111214"/>
+  <path d="M7 8h50v48H7z" fill="none" stroke="#c5a15d" stroke-width="2"/>
+  <text x="32" y="39" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#dfc184">UA</text>
+</svg>
